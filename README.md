@@ -15,7 +15,9 @@ El menú de Pan D'moium ofrece 6 tipos de hamburguesas, 6 diferentes pizzas, con
 
 ## Entrevista con Aurora
 
-![aurora](img/aurora.png)
+        ![aurora](img/aurora.png)
+
+
 
 
 
