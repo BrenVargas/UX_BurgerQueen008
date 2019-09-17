@@ -1,3 +1,15 @@
+# Preámbulo
+
+Nos contactó una cadena de comida rápida vegana para que contruyamos una interfaz para optimizar toma de pedidos y administración dentro de sus locales establecidos.
+
+# Entendimiento del problema
+
+Para conocer cómo se realizan los pedidos y las necesidades del personal para la atención de los comensales acudimos a las instalaciones de Pan D'Monium, un local ubicado en la colonia Roma, en la CDMX. Fuimos atendidas por Aurora, dueña del negocio, quien nos explicó las estaciones en que se divide el negocio. Nos habló de las dificultades para utilizar el software y las repercusiones en su trabajo.
+
+![estaciones1](img/estaciones1.png)
+![estaciones2](img/estaciones2.png)
+
+
 # BurgerQueen
 
 Nos contactó una cadena de comida rápida vegana para que contruyamos una interfaz para optimizar toma de pedidos y administración dentro de sus locales establecidos.
