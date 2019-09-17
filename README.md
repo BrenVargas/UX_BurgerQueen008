@@ -1,13 +1,24 @@
 # Preámbulo
 
-Nos contactó una cadena de comida rápida vegana para que contruyamos una interfaz para optimizar toma de pedidos y administración dentro de sus locales establecidos.
+Nos contactó una cadena de comida rápida vegana (Pan D’monium, ubicado en Av. Chilpancingo 129, colonia Roma Sur) para que contruyamos una interfaz para optimizar toma de pedidos y administración dentro de su local establecido.
 
-# Entendimiento del problema
+# Conocimiento del negocio
 
-Para conocer cómo se realizan los pedidos y las necesidades del personal para la atención de los comensales acudimos a las instalaciones de Pan D'Monium, un local ubicado en la colonia Roma, en la CDMX. Fuimos atendidas por Aurora, dueña del negocio, quien nos explicó las estaciones en que se divide el negocio. Nos habló de las dificultades para utilizar el software y las repercusiones en su trabajo.
+Para conocer cómo se realizan los pedidos y las necesidades del personal para la atención de los comensales, acudimos a las instalaciones de Pan D'monium. Fuimos atendidas por Aurora, dueña del negocio, quien nos explicó las estaciones en que se divide el negocio. Nos habló de las dificultades para utilizar el software y las repercusiones en su trabajo.
 
 ![estaciones1](img/estaciones1.png)
 ![estaciones2](img/estaciones2.png)
+
+5 personas trabajan en este local establecido, todas mayormente en la cocina, por lo que cuando entran comensales, una de ellas tiene que parar lo que está haciendo para ir a atender las mesas, para regresar con el pedido y seguir preparando la comida. No hay una persona enteramente dedicada a meserear. Descubrimos que tienen promoción de pizzas al 2x1 para los días miércoles y que tienen muchas visitas ese día de la semana.
+
+El menú de Pan D'moium ofrece 6 tipos de hamburguesas, 6 diferentes pizzas, con 3 tamaños (personal, mediana y familiar), así mismo 2 tipos de ensaladas, sodas italianas, malteadas y postres, pero no cuenta con opción en inglés.
+
+## Entrevista con Aurora
+
+![aurora](img/aurora.png)
+
+
+
 
 
 # BurgerQueen
