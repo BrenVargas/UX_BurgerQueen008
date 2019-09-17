@@ -15,7 +15,25 @@ El menú de Pan D'moium ofrece 6 tipos de hamburguesas, 6 diferentes pizzas, con
 
 ## Entrevista con Aurora
 
-        ![aurora](img/aurora.png)
+![aurora](img/aurora.png)
+
+#Entendimiento del problema
+
+El negocio usa desde hace 6 meses la aplicación iZettle, usan además una impresora para que las comandas lleguen a cada estación en la cocina, y una terminal para realizar los cobros con tarjeta.
+
+La aplicación le permite crear un mapa con la distribución real de las mesas del local, sin embargo, nos comenta esto le quita tiempo.
+
+El sistema le permite ingresar todas las opciones de su menú, tanto comida como bebidas, y una característica que le agrada es poder poner especificaciones en las comandas (productos sin algún condimento o pizzas con de dos estilos diferentes).
+
+Una vez que la orden está lista se manda a cocina y ahí se imprime la comanda, en caso de que la orden incluya productos de diferentes estaciones se imprime las veces que sean necesarias.
+
+![izettle](img/izettle.png)
+
+
+
+
+
+
 
 
 
