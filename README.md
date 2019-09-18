@@ -27,11 +27,11 @@ El sistema le permite ingresar todas las opciones de su menú, tanto comida como
 
 Una vez que la orden está lista se manda a cocina y ahí se imprime la comanda, en caso de que la orden incluya productos de diferentes estaciones se imprime las veces que sean necesarias.
 
-![izettle](img/izettle.png)
+![izettle](img/izettleokok.png)
 
 # Ideación
 
-[prototipo](https://www.figma.com/proto/qb7wqGipGcKK4CfeXtoUAj/Burger-Queen?node-id=0%3A1&scaling=scale-down)
+[Prototipo](https://www.figma.com/proto/qb7wqGipGcKK4CfeXtoUAj/Burger-Queen?node-id=0%3A1&scaling=scale-down)
 
 Decidimos enfocarnos en el servicio al cliente, en el rol de la mesera y su interacción con los comensales. Para Aurora este punto es fundamental para su negocio porque este trato personalizado le creó clientes leales y frecuentes, que en este momento le comentan ya no se sienten tan acogidos y es algo que a ella le gustaría cambiar.
 
